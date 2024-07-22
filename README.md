@@ -68,6 +68,6 @@ terraform destroy \
 
 ![image](https://github.com/user-attachments/assets/c4b2f81f-3ff2-4683-9aff-ebd382117259)
 
-* You will be able to view the destination account's S3 bucket from originating account without logging-off from the originating account. Based on the permissions you have, you will be able to update/delete the resources (S3 bucket in this case):
+* You will be able to view the destination account's S3 bucket from originating account without logging-off from the originating account. Based on the permissions you have, you will be able to update/delete the resources (S3 bucket in this case). If you have the required access, you can even create cross-account resources.
 
 ![image](https://github.com/user-attachments/assets/a41760a2-0f8c-4383-bd6c-2ccc601c06ef)
